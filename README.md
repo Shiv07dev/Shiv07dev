@@ -1,16 +1,29 @@
-## Hi there 👋
+🚀 Hi there, I'm Shivkumar Paun! 👋
 
-<!--
-**Shiv07dev/Shiv07dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
+🔹 Aspiring Full-Stack Developer passionate about creating seamless web and mobile experiences.
+🔹 Currently an Intern at Rovae, working on frontend development for a high-performance website.
+🔹 Enhancing PrintLabs, a streamlined document printing solution, and mastering UI/UX design for scalable applications.
+🔹 I thrive on solving complex problems and building intuitive, user-centric applications.
 
-Here are some ideas to get you started:
+🔍 What I'm Up To
+🌱 Currently Learning: Advanced Flutter animations, RESTful API design, cloud deployment with AWS, and rapid development tools like Webflow & FlutterFlow.
+💡 Exploring: Full-stack development methodologies, API optimizations, and modern UI/UX trends.
+📚 Taking Courses: Diving deep into full-stack development, advanced Flutter, and cloud infrastructure.
+🤝 Looking to Collaborate On: Scalable backend systems, high-performance mobile apps, and AI-powered automation.
+🚀 Working on: Crafting the best UI for PrintLabs, leveraging advanced Flutter techniques for an optimized experience.
+💬 Ask Me About: Frontend development, seamless API integration, or creating high-performance user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun Fact
+I can build a stunning UI faster than most people can decide what to watch on Netflix! 😆
+
+🛠 Tech Stack
+🚀 Languages & Frameworks:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
